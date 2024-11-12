@@ -8,8 +8,12 @@ Muito eficiente, apresenta no coração do módulo está um chip MotionTracking 
 
 ## Estudado:
 - https://www.usinainfo.com.br/acelerometro-arduino/acelerometro-e-giroscopio-mpu-6050-modulo-gy521-3-eixos-6-dof-3895.html
-- 
-## Ligação circuito:
 
-<img src="https://github.com/user-attachments/assets/3fe23272-4edc-4184-a0fc-32ba305cba03" width="250"/>
+- 
+# Sensor Acelerômetro GY-521
+Testes feitos em perfeito funcionamento, como mostra nas imagens abaixo o mesmo esta enviando suas coordenadas no plano cartesiano de forma precisa e sempre atualizando.
+
+# imagens:
 <img src="https://github.com/user-attachments/assets/2d5bc8af-9bb7-40c4-9fc0-cfd63e533eb4" width="250"/>
+<img src="https://github.com/user-attachments/assets/3fe23272-4edc-4184-a0fc-32ba305cba03" width="250"/> <br>
+<img src="https://github.com/user-attachments/assets/8bd25ad1-5610-4678-9f62-abfbbc277309" width="500"/>
